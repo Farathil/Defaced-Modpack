@@ -1,0 +1,4 @@
+#Tue Jul 25 03:16:53 CDT 2023
+raytracedShadows=true
+grass_shadows=false
+Penumbra=true

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "farmersdelight:skillet",
+    "savage_and_ravage:cleaver_of_beheading"
+  ],
+  "incompatible": [
+    "uniquee:ameliorated_sharpness",
+    "uniquee:ameliorated_bane_of_arthropods",
+    "minecraft:bane_of_arthropods",
+    "minecraft:sharpness",
+    "minecraft:smite"
+  ]
+}

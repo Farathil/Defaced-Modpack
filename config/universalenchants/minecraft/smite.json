@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "farmersdelight:skillet",
+    "farmersdelight:flint_knife",
+    "farmersdelight:iron_knife",
+    "farmersdelight:diamond_knife",
+    "farmersdelight:netherite_knife",
+    "farmersdelight:golden_knife",
+    "cnb:cactem_spear",
+    "savage_and_ravage:cleaver_of_beheading",
+    "abnormals_delight:silver_knife",
+    "abnormals_delight:necromium_knife",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "uniquee:ameliorated_sharpness",
+    "uniquee:ameliorated_bane_of_arthropods",
+    "minecraft:bane_of_arthropods",
+    "ensorcellation:magic_edge",
+    "ensorcellation:instigating",
+    "ensorcellation:damage_villager",
+    "minecraft:impaling",
+    "uniquee:ameliorated_smite",
+    "ensorcellation:damage_ender",
+    "ensorcellation:damage_illager"
+  ]
+}

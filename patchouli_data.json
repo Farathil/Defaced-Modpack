@@ -1,0 +1,21 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:tools/grass_seeds",
+        "botania:basics/flowers"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "runecraft:book_of_rune_magic": {
+      "viewedEntries": [
+        "runecraft:orbs-recipes"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": [
+    "uniquee:ecological",
+    "enchantments_plus:sunlights_blessing",
+    "uniqueutil:sages_soul",
+    "uniquee:endest_reap",
+    "enchantments_plus:curse_of_moonlight",
+    "uniquee:warriors_grace",
+    "uniquee:ender_marksmen",
+    "uniquebattle:ares_fragment",
+    "uniqueutil:alchemists_blessing",
+    "uniquee:ender_mending",
+    "uniquee:grimoire"
+  ]
+}

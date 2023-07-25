@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:any"
+  ],
+  "incompatible": [
+    "minecraft:mending",
+    "uniquee:ender_mending"
+  ]
+}

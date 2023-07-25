@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest"
+  ],
+  "incompatible": [
+    "uniquee:swift_blade",
+    "uniquee:spartan_weapon"
+  ]
+}

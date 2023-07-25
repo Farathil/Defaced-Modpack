@@ -1,0 +1,34 @@
+[12:50:53] [INFO ] Loaded script server_scripts:constants.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:functions.js in 0.001 s
+[12:50:53] [INFO ] Loaded script server_scripts:config.js in 0.001 s
+[12:50:53] [INFO ] Loaded script server_scripts:tags/block_tags_remove.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:tags/item_tags_remove.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:tags/block_tags.js in 0.001 s
+[12:50:53] [INFO ] Loaded script server_scripts:tags/item_tags.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/remove.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/replace.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/smelting.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:dev/tips.js in 0.001 s
+[12:50:53] [INFO ] Loaded script server_scripts:dev/commands.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:advancements/remove.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:loot_tables/blocks.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:loot_tables/chests.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:loot_tables/entities.js in 0.001 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/alloying.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/arsnouveau.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/botania.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/crushing.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/farmersdelight.js in 0.001 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/immersiveengineering.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/integrateddynamics.js in 0.001 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/mekanism.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/sawing.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/shaped.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/shapeless.js in 0.001 s
+[12:50:53] [INFO ] Loaded script server_scripts:recipes/stonecutting.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:first_start.js in 0.0 s
+[12:50:53] [INFO ] Loaded script server_scripts:blacklist.js in 0.0 s
+[12:50:53] [INFO ] Loaded 30/30 KubeJS server scripts in 0.015 s
+[12:50:53] [INFO ] Scripts loaded
+[12:50:53] [WARN ] Failed to register handler for recipe type botania:fertilizer_dye as it doesn't exist!
+[12:50:53] [INFO ] Scanning recipes...

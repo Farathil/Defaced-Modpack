@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "flag": "item_shelf",
+          "type": "supplementaries:flag"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "000"
+        ],
+        "key": {
+          "0": {
+            "item": "ars_nouveau:archwood_slab"
+          }
+        },
+        "result": {
+          "item": "suppsquared:ars_nouveau/item_shelf_archwood",
+          "count": 2
+        }
+      }
+    }
+  ]
+}

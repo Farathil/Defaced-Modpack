@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "farmersdelight:skillet",
+    "savage_and_ravage:cleaver_of_beheading"
+  ],
+  "incompatible": [
+    "extra_shield_enchantments:secrecy",
+    "extra_shield_enchantments:heaven_call",
+    "extra_shield_enchantments:impulse",
+    "extra_shield_enchantments:flare",
+    "extra_shield_enchantments:detonation"
+  ]
+}

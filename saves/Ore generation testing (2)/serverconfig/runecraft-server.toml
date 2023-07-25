@@ -1,0 +1,88 @@
+
+#General
+[general]
+	#The amount of experience levels that you need to create the magical book
+	#Range: 1 ~ 30
+	charging_cost = 15
+	#Activate that the banned ritual can spawn an ender dragon
+	can_spawn_enderdragon = false
+	#The amount of experience levels that you need to use a soul on the altar
+	#Range: 0 ~ 50
+	soul_cost = 1
+
+#Rune Stones
+[runestones]
+	#Activate the area effect of the rune stones when right clicked
+	activate_area_effect = true
+	#Activate the rune stone effect if the block is powered by redstone
+	activate_redstone_effect = true
+	#The spell duration of the block effects
+	#Range: 50 ~ 10000
+	spell_duration = 200
+	#The spell amplifier of the block effects
+	#Range: 0 ~ 5
+	spell_amplifier = 1
+	#The duration of the area effect cloud of the rune stones
+	#Range: 10 ~ 10000
+	area_spell_duration = 200
+	#The amplifier of the area effect cloud of the rune stones
+	#Range: 0 ~ 5
+	area_spell_amplifier = 0
+	#The radius of the area effect cloud of the rune stones
+	#Range: 1 ~ 50
+	area_spell_radius = 8
+
+#Portable Rune Stones
+[portable_runestones]
+	#Activate if the effects from the portable rune stones are public
+	activate_runestone_public_effect = true
+	#The duration of the portable rune stone effects
+	#Range: 10 ~ 1000
+	portable_spell_duration = 200
+	#The amplifier of the portable rune stone effects
+	#Range: 0 ~ 5
+	portable_spell_amplifier = 0
+	#The radius of the portable rune stone effects
+	#Range: 1 ~ 10
+	portable_spell_radius = 2
+	#The cooldown of the portable rune stone effects (should be more than portable spell duration)
+	#Range: 10 ~ 10000
+	portable_spell_cooldown = 300
+	#Should the portable rune stones on the altar be able to be repaired with XP?
+	portable_rune_stones_xp_repair = false
+
+#Pages
+[pages]
+	#The amount of experience levels that you need to use the orb page on the altar
+	#Range: 0 ~ 50
+	orb_page_cost = 10
+	#The amount of experience levels that you need to use the enchanting page on the altar
+	#Range: 0 ~ 50
+	enchanting_page_cost = 10
+	#The amount of experience levels that you need to use the spell page on the altar
+	#Range: 0 ~ 50
+	spell_page_cost = 5
+	#The amount of experience levels that you need to use the wand page on the altar
+	#Range: 0 ~ 50
+	wand_page_cost = 10
+	#The amount of experience levels that you need to use the curse page on the altar
+	#Range: 0 ~ 50
+	curse_page_cost = 5
+	#The amount of experience levels that you need to use the alchemy page on the altar
+	#Range: 0 ~ 50
+	alchemy_page_cost = 10
+	#The amount of experience levels that you need to use the lost page on the altar
+	#Range: 0 ~ 50
+	lost_page_cost = 10
+	#The amount of experience levels that you need to use the banned page on the altar
+	#Range: 0 ~ 50
+	banned_page_cost = 20
+
+#Wands
+[wands]
+	#The cooldown of wand effects
+	#Range: 5 ~ 10000
+	wand_cooldown = 150
+	#Should the wands on the altar be able to be repaired with XP?
+	wand_xp_repair = true
+

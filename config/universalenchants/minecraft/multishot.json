@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow",
+    "cnb:cactem_spear",
+    "$minecraft:bow"
+  ],
+  "incompatible": []
+}

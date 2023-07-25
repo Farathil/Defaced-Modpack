@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "ae2:annihilation_plane",
+    "thermal:flux_drill",
+    "thermal:flux_saw",
+    "quark:pickarang",
+    "quark:flamerang",
+    "quark:echorang"
+  ],
+  "incompatible": [
+    "uniquee:midas_blessing",
+    "uniquee:ifrits_grace",
+    "enchantments_plus:enhancement",
+    "minecraft:silk_touch",
+    "enchantments_plus:auto_smelting"
+  ]
+}

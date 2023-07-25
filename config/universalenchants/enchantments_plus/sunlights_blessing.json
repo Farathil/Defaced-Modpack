@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": [
+    "minecraft:mending",
+    "enchantments_plus:curse_of_moonlight"
+  ]
+}

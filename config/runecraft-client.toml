@@ -1,0 +1,12 @@
+
+#General
+[general]
+	#Activate the Update-Checker
+	update-checker = true
+	#Activate the visibility of the rune type name on the item
+	activate_visible_rune_type = true
+	#Activate the description of the rune stones
+	activate_runestone_description = true
+	#Activate the description of the rune stones in JEI
+	activate_runestone_jei_description = true
+

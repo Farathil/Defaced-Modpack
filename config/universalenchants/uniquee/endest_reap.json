@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "farmersdelight:skillet",
+    "savage_and_ravage:cleaver_of_beheading"
+  ],
+  "incompatible": [
+    "uniquee:ameliorated_sharpness",
+    "minecraft:mending",
+    "minecraft:sharpness",
+    "uniquee:spartan_weapon",
+    "uniquee:ender_mending",
+    "uniquee:sages_blessing"
+  ]
+}

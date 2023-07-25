@@ -1,0 +1,4 @@
+[03:16:58] [INFO ] Loaded script client_scripts:item_tooltip.js in 0.001 s
+[03:16:58] [INFO ] Loaded script client_scripts:jei_blacklist.js in 0.003 s
+! [03:16:58] [ERR] #20: Error loading KubeJS script: client_scripts:rei_blacklist.js': ReferenceError: "REIEvents" is not defined. (client_scripts:rei_blacklist.js#20)
+[03:16:58] [INFO ] Loaded 2/3 KubeJS client scripts in 0.117 s

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident",
+    "cnb:cactem_spear",
+    "hunterillager:boomerang"
+  ],
+  "incompatible": [
+    "minecraft:riptide"
+  ]
+}

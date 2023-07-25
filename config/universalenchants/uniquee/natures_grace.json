@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest"
+  ],
+  "incompatible": [
+    "uniquee:ares_blessing",
+    "uniquee:warriors_grace",
+    "uniquee:alchemists_grace"
+  ]
+}

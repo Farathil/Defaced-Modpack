@@ -1,0 +1,7 @@
+event.remove({}) // Deletes all recipes
+event.remove({id: 'minecraft:glowstone'}) // Removes data/minecraft/recipes/glowstone.json
+event.remove({input: '#forge:dusts/redstone'}) // Removes all recipes where input is Redstone Dust tag
+event.remove({output: '#minecraft:wool'}) // Removes all recipes where output is Wool tag
+event.remove({mod: 'quartzchests'}) // Remove all recipes from Quartz Chests mod
+event.remove({type: 'minecraft:campfire_cooking'}) // Remove all campfire cooking recipes
+event.remove({output: 'minecraft:cooked_chicken', type: 'minecraft:campfire_cooking'}) // You can combine filters, to create ANDk logic

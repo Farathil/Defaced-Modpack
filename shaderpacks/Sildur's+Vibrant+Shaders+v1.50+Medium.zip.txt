@@ -1,0 +1,2 @@
+#Mon Jul 24 00:35:14 CDT 2023
+bloom_strength=0.5

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": [
+    "uniquee:fast_food",
+    "uniquee:endest_reap",
+    "minecraft:silk_touch"
+  ]
+}

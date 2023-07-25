@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": [
+    "minecraft:efficiency",
+    "minecraft:mending",
+    "minecraft:sharpness",
+    "uniquee:ender_mending",
+    "minecraft:protection"
+  ]
+}

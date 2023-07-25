@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "flag": "item_shelf",
+          "type": "supplementaries:flag"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "000"
+        ],
+        "key": {
+          "0": {
+            "item": "integrateddynamics:menril_slab"
+          }
+        },
+        "result": {
+          "item": "suppsquared:integrateddynamics/item_shelf_menril",
+          "count": 2
+        }
+      }
+    }
+  ]
+}

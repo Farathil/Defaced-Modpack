@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": [
+    "uniquee:ecological",
+    "allurement:reforming",
+    "uniquee:ender_marksmen"
+  ]
+}

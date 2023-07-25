@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": [
+    "minecraft:mending",
+    "uniquee:warriors_grace",
+    "uniquee:ender_marksmen",
+    "minecraft:infinity",
+    "uniquee:ender_mending"
+  ]
+}

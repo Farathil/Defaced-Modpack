@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_legs"
+  ],
+  "incompatible": [
+    "enchantments_plus:jumper",
+    "enchantments_plus:agility"
+  ]
+}

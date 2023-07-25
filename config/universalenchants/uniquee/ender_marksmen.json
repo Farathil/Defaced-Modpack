@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "uniquee:ecological",
+    "minecraft:mending",
+    "minecraft:infinity",
+    "uniquee:ender_mending"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "ae2:annihilation_plane",
+    "thermal:flux_drill",
+    "thermal:flux_saw",
+    "quark:pickarang",
+    "quark:flamerang",
+    "quark:echorang"
+  ],
+  "incompatible": [
+    "minecraft:luck_of_the_sea",
+    "minecraft:looting",
+    "uniquee:midas_blessing",
+    "uniquee:ifrits_grace",
+    "minecraft:fortune",
+    "uniquee:sages_blessing",
+    "enchantments_plus:auto_smelting"
+  ]
+}
